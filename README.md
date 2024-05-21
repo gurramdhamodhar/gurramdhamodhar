@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React & NextJs**
 
-- 👨‍💻 All of my projects are available at [https://dhamodhar-portfolio.vercel.app/](https://dhamodhar-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://gurramdhamodhar.vercel.app/](https://gurramdhamodhar.vercel.app/)
 
 - 💬 Ask me about **react, machine learning**
 
