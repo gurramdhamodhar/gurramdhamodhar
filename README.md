@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **g.dhamodhar5@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/mtHQV](https://shorturl.at/mtHQV)
+- 📄 Know about my experiences [https://shorturl.at/mtHQV](https://shorturl.at/nFK4d)
 
 - ⚡ Fun fact **All think I am a good coder😂**
 
